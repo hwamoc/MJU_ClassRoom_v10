@@ -1,3 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MJU_ClassRoom_v.10</string>
+    <string name="title">Login</string>
+    <string name="registration">Registration form</string>
+    <string name="app_name">Mj ClassRoom</string>
+    <string name="Exit">Exit</string>
+    <string name="Clear">Clear</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Back">Back</string>
+
+    <string name="title_home">이용할 건물번호를 선택하세요.</string>
+
 </resources>
